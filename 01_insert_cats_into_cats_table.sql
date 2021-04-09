@@ -1,0 +1,1 @@
+SELECT [names of columns we are going to select] FROM [table we are selecting from];
